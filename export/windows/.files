@@ -1,0 +1,14 @@
+export/windows/bin/assets/data/data-goes-here.txt
+export/windows/bin/assets/images/images-go-here.txt
+export/windows/bin/assets/music/music-goes-here.txt
+export/windows/bin/assets/sounds/sounds-go-here.txt
+export/windows/bin/assets/story/scene1.webp
+export/windows/bin/assets/story/scene2.webp
+export/windows/bin/assets/story/scene3.webp
+export/windows/bin/flixel/sounds/beep.ogg
+export/windows/bin/flixel/sounds/flixel.ogg
+export/windows/bin/flixel/fonts/nokiafc22.ttf
+export/windows/bin/flixel/fonts/monsterrat.ttf
+export/windows/bin/flixel/images/ui/button.png
+export/windows/bin/flixel/images/logo/default.png
+export/windows/bin/manifest/default.json
